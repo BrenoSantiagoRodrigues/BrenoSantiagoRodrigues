@@ -31,12 +31,6 @@ Olá! Sou do Rio de Janeiro e sou um(a) estudante de programação com foco tota
 
 ---
 
-### Status
-
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[BrenoSantiagoRodrigues]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[BrenoSantiagoRodrigues]&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <br>
 
