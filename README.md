@@ -1,54 +1,46 @@
-<div align="center">
+### 👋 Hi there, welcome to my Github profile
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Breno%20Santiago&fontSize=52&fontColor=f97316&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=58&descSize=17&descColor=ffffff" />
+* My name is [SEU NOME] and i'm a [SUA PROFISSÃO/CARGO], from [SUA CIDADE], [SEU PAÍS] 🇧🇷
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Desenvolvedor+Back-End+Java+%E2%98%95;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80)](https://git.io/typing-svg)
+---
 
+### About Me
+
+* Content creator at [@seu_canal](link_do_seu_canal)
+* Tech Lead at [@sua_empresa](link_da_sua_empresa)
+
+---
+
+### My Techs
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
 ---
 
-## 🚀 Sobre mim
+### My Stats
 
-Meu nome é **Breno Santiago**, sou estudante de **Engenharia de Software** e estou em busca da minha primeira vaga como **Desenvolvedor Back-End Java**. Tenho um forte interesse em trabalhar com tecnologias como **Java**, **Spring Boot**, **APIs REST** e **Docker**.
-
----
-
-## 🛠️ Minhas Ferramentas
-
-- **Linguagens e Frameworks**
-  - Java
-  - Spring Boot
-  - SQL
-
-- **DevOps e Versionamento**
-  - Docker
-  - Git
-  - GitHub
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoSantiagoRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=f97316&icon_color=f97316&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSantiagoRodrigues&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=f97316&text_color=ffffff"/>
+<div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
+<br>
 
-## 🌐 Conexões
-
-Acredito que a colaboração e a troca de experiências são fundamentais. Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Breno-Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenosoftwareenginner)
-[![GitHub](https://img.shields.io/badge/GitHub-BrenoSantiagoRodrigues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrenoSantiagoRodrigues)
-[![Email](https://img.shields.io/badge/Email-brenosantiagotkd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenosantiagotkd@gmail.com)
+![[SEU NOME]'s Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USUARIO_GITHUB]&bg_color=453C33&color=E8A359&line=E8A359&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
-<div align="center">
+### Connect with me
 
-![Visitor Count](https://profile-counter.glitch.me/BrenoSantiagoRodrigues/count.svg)
-
-</div>
+<a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.youtube.com/[SEU_YOUTUBE]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/[SEU_INSTAGRAM]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
