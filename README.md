@@ -66,7 +66,7 @@ Me tornar um desenvolvedor back-end sólido e trabalhar criando sistemas eficien
 ## 📫 Contato
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/brenosoftwareenginner">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
