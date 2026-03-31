@@ -1,17 +1,22 @@
-### 👋 Hi there, welcome to my Github profile
+### 👋 Olá Pessoal, Seja Bem vindos ao meu Github
 
-* My name is [SEU NOME] and i'm a [SUA PROFISSÃO/CARGO], from [SUA CIDADE], [SEU PAÍS] 🇧🇷
-
----
-
-### About Me
-
-* Content creator at [@seu_canal](link_do_seu_canal)
-* Tech Lead at [@sua_empresa](link_da_sua_empresa)
+* Meu nome é Breno Santiago, sou estudante de engenharia de software focado em desenvolvimento back end, sou do Rio de Janeiro. 🇧🇷
 
 ---
 
-### My Techs
+### Sobre Mim ☕
+
+Olá! Sou do Rio de Janeiro e sou um(a) estudante de programação com foco total no ecossistema **Java**. Sou apaixonado(a) por tecnologia e estou construindo uma base sólida para me tornar um(a) Desenvolvedor(a) Back-end.
+
+* 🎓 Focando meus estudos em Java e Spring Boot, juntamente a banco de dados como SQL, SQLSERVER, MySql,também tenho conhecimento em APIS, Postman.
+* 🌱 Atualmente construindo pequenos projetos práticos para fixar o aprendizado.
+* 🎯 Meu principal objetivo hoje é aprofundar meus conhecimentos e conquistar minha primeira oportunidade na área de desenvolvimento.
+* 💡 Adoro resolver problemas lógicos e estou sempre buscando aprender uma nova boa prática de código.
+* 📫 Vamos nos conectar! Me chame no LinkedIn: **www.linkedin.com/in/brenosoftwareenginner**
+
+---
+
+### Minhas Stacks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -26,21 +31,20 @@
 
 ---
 
-### My Stats
+### Status
 
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[BrenoSantiagoRodrigues]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[BrenoSantiagoRodrigues]&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
 
-![[SEU NOME]'s Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=[SEU_USUARIO_GITHUB]&bg_color=453C33&color=E8A359&line=E8A359&point=FFFFFF&area=true&hide_border=true)
+![[BrenoSantiagoRodrigues]'s Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=[BrenoSantiagoRodrigues]&bg_color=453C33&color=E8A359&line=E8A359&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
-### Connect with me
+### Conecte-se Comigo
 
-<a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.youtube.com/[SEU_YOUTUBE]" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/[SEU_INSTAGRAM]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/[www.linkedin.com/in/brenosoftwareenginner]/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
