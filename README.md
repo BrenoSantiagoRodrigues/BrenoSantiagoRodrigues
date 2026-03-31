@@ -34,7 +34,6 @@ Olá! Sou do Rio de Janeiro e sou um(a) estudante de programação com foco tota
 
 <br>
 
-![[BrenoSantiagoRodrigues]'s Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=[BrenoSantiagoRodrigues]&bg_color=453C33&color=E8A359&line=E8A359&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
