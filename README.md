@@ -1,78 +1,20 @@
-<!-- Animação de digitação -->
-<h1 align="center">
-  👋 Fala, eu sou o Breno Santiago
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Focado+em+Back-end;Estudando+Java;Sempre+evoluindo+🚀" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Breno%20Santiago&fontSize=52&fontColor=f97316&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Java%20Back-End%20Developer&descAlignY=58&descSize=17&descColor=ffffff" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedor+Back-End+Java+%E2%98%95;Apaixonado+por+APIs+e+Microsservi%C3%A7os+%F0%9F%94%A7;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 🚀 Sobre mim
-
-💻 Desenvolvedor em formação  
-🎓 Estudante de Engenharia de Software  
-🔥 Focado em me tornar um Back-end sólido  
-
-Sou apaixonado por tecnologia e estou construindo minha carreira com foco em desenvolvimento back-end.  
-Atualmente estudo **Java**, lógica de programação e boas práticas, sempre buscando evoluir na prática.
+</div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=server&logoColor=white"/>
-</p>
-
----
-
-## 📈 Atualmente
-
-- 📚 Estudando Java intensivamente  
-- 🚀 Participando de bootcamp  
-- 💼 Buscando primeira oportunidade como dev  
-- 🧩 Criando projetos para ganhar experiência  
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrenoSantiagoRodrigues&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoSantiagoRodrigues&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Streak (consistência)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BrenoSantiagoRodrigues&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Objetivo
-
-Me tornar um desenvolvedor back-end sólido e trabalhar criando sistemas eficientes, escaláveis e que gerem impacto real.
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href=" www.linkedin.com/in/brenosoftwareenginner ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-## 💡 Frase
-
-> "Disciplina e consistência constroem resultados."
+```yaml
+name: "Breno Santiago"
+role: "Back-End Developer (Java)"
+education: "Engenharia de Software 🎓"
+focus: "Java • Spring Boot • APIs REST"
+goal: "Conquistar minha primeira vaga como Desenvolvedor Back-End"
+currently_learning: ["Spring Security", "Docker", "Microsserviços"]
+fun_fact: "Acredito que um bom back-end é invisível — e é isso que o torna poderoso. ⚡"
